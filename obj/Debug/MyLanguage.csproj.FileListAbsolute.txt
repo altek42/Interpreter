@@ -1,0 +1,6 @@
+D:\DesktopFolder\C#\Interpreter\MyLanguage\bin\Debug\MyLanguage.exe.config
+D:\DesktopFolder\C#\Interpreter\MyLanguage\bin\Debug\MyLanguage.exe
+D:\DesktopFolder\C#\Interpreter\MyLanguage\bin\Debug\MyLanguage.pdb
+D:\DesktopFolder\C#\Interpreter\MyLanguage\obj\Debug\MyLanguage.csprojResolveAssemblyReference.cache
+D:\DesktopFolder\C#\Interpreter\MyLanguage\obj\Debug\MyLanguage.exe
+D:\DesktopFolder\C#\Interpreter\MyLanguage\obj\Debug\MyLanguage.pdb
